@@ -1,0 +1,15 @@
+C:\testdelte\bin\Debug\net6.0\testdelte.exe
+C:\testdelte\bin\Debug\net6.0\testdelte.deps.json
+C:\testdelte\bin\Debug\net6.0\testdelte.runtimeconfig.json
+C:\testdelte\bin\Debug\net6.0\testdelte.dll
+C:\testdelte\bin\Debug\net6.0\testdelte.pdb
+C:\testdelte\obj\Debug\net6.0\testdelte.csproj.AssemblyReference.cache
+C:\testdelte\obj\Debug\net6.0\testdelte.GeneratedMSBuildEditorConfig.editorconfig
+C:\testdelte\obj\Debug\net6.0\testdelte.AssemblyInfoInputs.cache
+C:\testdelte\obj\Debug\net6.0\testdelte.AssemblyInfo.cs
+C:\testdelte\obj\Debug\net6.0\testdelte.csproj.CoreCompileInputs.cache
+C:\testdelte\obj\Debug\net6.0\testdelte.dll
+C:\testdelte\obj\Debug\net6.0\refint\testdelte.dll
+C:\testdelte\obj\Debug\net6.0\testdelte.pdb
+C:\testdelte\obj\Debug\net6.0\testdelte.genruntimeconfig.cache
+C:\testdelte\obj\Debug\net6.0\ref\testdelte.dll
